@@ -21,9 +21,7 @@ html {
 }
 
 .singlePage {
-  padding: 4em 30vw;
-  margin: 0 auto;
-  max-width: 1000px;
+  padding: 4em 25vw;
   @media all and (max-width: 1200px) {
     padding: 25px 5vw;
   }
@@ -77,14 +75,12 @@ tbody, li, p {
 
   & details {
     & summary {
-      cursor: zoom-in;
       font-family: var(--font-header);
       color: var(--dark);
       font-weight: 700;
     }
 
     &[open] summary {
-      cursor: zoom-out;
     }
   }
 }

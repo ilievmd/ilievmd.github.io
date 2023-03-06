@@ -1,13 +1,11 @@
 baseURL = "https://ilievmd.github.io/"
-languageCode = "en-us"
+languageCode = "bg"
+googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
-    "/content/journals/*",
-    "/content/logseq/*",
-    
 ]
 summaryLength = 20
 paginate = 10

@@ -8,10 +8,10 @@ other = "↳ Връщане назад."
 other = "Всички {{.Title}}"
 
 [last_updated]
-other = "Последна актуализация:"
+other = "Последна актуализация"
 
 [notes_count]
-other = "страници с този tag:"
+other = "страници с този tag"
 
 [first_10]
 other = "Показване на първите 10 резутлтата"
@@ -62,4 +62,4 @@ other = "Търсене..."
 other = "Съдържание"
 
 [copyright]
-other = "© {{ .year }} | {{ .name }}"
+other = "{{ .name }}, © {{ .year }}"
